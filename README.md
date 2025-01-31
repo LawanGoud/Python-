@@ -243,3 +243,130 @@ Here the equals to `=`sign is called as **Assignment Operator** as it is used to
 ## Sum of 2495 and 789358
 
 ## subtract 596 from 193856
+
+# Sequence of Instructions
+
+**Program**
+
+A program is a sequence of instructions given to a computer.
+
+## Defining a Variable
+
+A variable gets created when you assign a value to it for the first time.
+
+```Python
+age = 10
+```
+
+## Printing Value in a Variable
+
+```Python
+age = 10
+print(age) # 10
+```
+
+```Python
+age = 10
+print("age") # age
+```
+
+Variable name enclosed in quotes will print variable rather than the value in it.
+If you intend to print value, do not enclose the variable in quotes.
+
+## Order of Instructions
+
+Python executes the code line-by-line.
+
+```Python
+print(age)
+age = 10 # NameError: name 'age' is not defined
+```
+
+Variable age is not created by the time we tried to print.
+
+## Spacing in Python
+
+Having spaces at the beginning of line causes errors.
+
+```Python
+a = 10 * 5
+b = 5 * 0.5
+ b = a + b
+```
+
+```Output
+File "main.py", line 3
+    b = a + b
+    ^
+IndentationError: unexpected indent
+```
+
+## Variable Assignment
+
+Values in the variables can be changed.
+
+```Python
+a = 1
+print(a) # 1
+a = 2
+print(a) # 2
+```
+
+**Examples of Variable Assignment**
+
+```Python
+a = 2
+print(a) # 2
+a = a + 1
+print(a) # 3
+```
+
+```Python
+a = 1
+b = 2
+a = b + 1
+print(a) # 3
+print(b) # 2
+```
+
+## Expression
+
+An expression is a valid combination of values, variables and operators.
+
+**Examples**
+
+- a \* b
+- a + 2
+- 5 \* 2 + 3 \* 4
+
+**BODMAS**
+
+The standard order of evaluating an expression
+
+- Brackets (B)
+- Orders (O)
+- Division (D)
+- Multiplication (M)
+- Addition (A)
+- Subtraction (S)
+
+```Step by Step Explanation
+(5 * 2) + (3 * 4)
+(10) + (12)
+22
+```
+
+```Python
+print(10 / 2 + 3) # 8.0
+print(10 / (2 + 3)) # 2.0
+```
+
+# Coding Practice
+
+## Product of 37, 61 and 391
+
+### Write a program that prints the product of three numbers, 37, 61, 391
+
+## Divide 33968 by 176
+
+### Write a program that prints the result when 33968 is divided by 176.
