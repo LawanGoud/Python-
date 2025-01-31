@@ -1,4 +1,4 @@
-# Sum of 2495 and 789358
+# subtract 596 from 193856
 
-result = 2495 + 789358
+result = 193856 - 596
 print(result)
