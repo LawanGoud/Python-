@@ -146,4 +146,10 @@ print(4/2) # 2.0
 
 # Coding Practice
 
-# Write a program that prints `Hello World` as output
+## Hello World
+
+### Write a program that prints `Hello World` as output
+
+## Three Hashes
+
+### Write a program that prints three hashes `(###)` as output

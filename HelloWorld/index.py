@@ -1,3 +1,3 @@
-# Write a program that prints  `Hello World` as output
+# Write a program that prints three hashes `(###)` as output
 
-print("Hello World")
+print("###")
