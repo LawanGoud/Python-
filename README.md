@@ -143,3 +143,7 @@ Division is denoted by `/` sign.
 print(5 / 2) # 2.5
 print(4/2) # 2.0
 ```
+
+# Coding Practice
+
+# Write a program that prints `Hello World` as output
