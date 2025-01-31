@@ -1,3 +1,4 @@
-# Write a program that prints three hashes `(###)` as output
+# Sum of 2495 and 789358
 
-print("###")
+result = 2495 + 789358
+print(result)
