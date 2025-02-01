@@ -542,3 +542,11 @@ Write a program that prints a simple triangle using star (\*).
 ## Stars
 
 Write a program that reads a word and prints the word in "\* \* \* word \* \* \*" format.
+
+## First Character
+
+Write a program that reads a word and prints the first character of the word.
+
+## Third Character
+
+Write a program that reads a word and prints the third character of the word.
