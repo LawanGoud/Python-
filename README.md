@@ -526,3 +526,7 @@ Write a program to print the given input word three times in a single line separ
 ## Simple Square
 
 Write a program that prints a simple square using star (\*).
+
+## Simple Square - 2
+
+Write a program that prints a simple square using start(\*).
