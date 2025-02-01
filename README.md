@@ -508,3 +508,7 @@ For this problem, you need to write code to read a single line of input and prin
 ## Join Words
 
 Write a program that reads two words and prints the resultant word by joining the two words.
+
+## Full Name
+
+A job applicant is filling out an application form. He entered his first name and last name. Your task is to print his full name by joining his first name and last name with a space.
