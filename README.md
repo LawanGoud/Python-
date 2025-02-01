@@ -370,3 +370,109 @@ print(10 / (2 + 3)) # 2.0
 ## Divide 33968 by 176
 
 ### Write a program that prints the result when 33968 is divided by 176.
+
+# Inputs and Outputs Basics
+
+## Working with Strings
+
+## String Contatenation
+
+Joining strings together is called string concatenation.
+
+```Python
+a = "Hello" + " " + "World"
+print(a) # Hello World
+```
+
+## Concatenation Errors
+
+String Concatenation is possible only with strings.
+
+```Python
+a = "*" + 10
+print(a)
+```
+
+```Output
+File "main.py", line 1
+    a = "*" + 10
+    ^
+TypeError:
+can only concatenate str (not "int") to str
+```
+
+## String Repetition
+
+`*` operator is used for repeating strings any number of times as required.
+
+```Python
+a = "*" * 10
+print(a) # Output: **********
+```
+
+```Python
+s = "Python"
+s = ("* " * 3) + s + (" *" * 3)
+print(s) # Output : * * * Python * * *
+```
+
+## Length of String
+
+`len()` returns the number of characters in a given string.
+
+```Python
+username = input() # Input: Ravi
+length = len(username)
+print(length) # Output : 4
+```
+
+## Take Input From User
+
+- `input()` allows flexibility to take the input from the user.
+- `input()` reads a line of input as a string.
+
+```Python
+username = input() # Input: Ajay
+print(username) # Output: Ajay
+```
+
+```Python
+username = input() # Input: Ravi
+age = input() # Input: 10
+print(username + " is " + age + " years old") # Output: Ravi is 10 years old
+```
+
+<b>Note</b>
+
+- Even though you **can't** directly **combine strings and integers**, the code works because input() returns a **string**.
+
+- `input()` converts user-entered data (including numbers, booleans, etc) to string. You will learn more about this in further sessions.
+
+- In this case, "10" becomes a string, allowing it to Concatenate and be the part of the final message.
+
+## String Indexing
+
+We can access an individual character in a string using their positions (which start from 0).
+
+These positions are also called as index.
+
+```Python
+username = "Ravi"
+first_letter = username[0]
+print(first_letter) # Output : R
+```
+
+## IndexError
+
+Attempting to use an index that is too large will result in an error:
+
+```Python
+username = "Ravi"
+print(username[4]) # IndexError: string index out of range
+```
+
+# Coding Practice - 1A
+
+## Print the Input
+
+Write a program that reads a single line of input and print the given input.
