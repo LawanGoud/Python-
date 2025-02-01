@@ -476,3 +476,13 @@ print(username[4]) # IndexError: string index out of range
 ## Print the Input
 
 Write a program that reads a single line of input and print the given input.
+
+## Print the Input - 2
+
+Write a program that reads a word and prints the word and "###" on two lines.
+
+<b>Note</b> The characters used in "###" are three hash symbols.
+
+## Print the Input - 3
+
+Write a program that reads the two words and prints the two words on two lines
