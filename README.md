@@ -490,3 +490,13 @@ Write a program that reads the two words and prints the two words on two lines
 ## Second Line
 
 For this problem, you need to write code to read two lines of input and prints the second line of input
+
+## Print in Reverse Order
+
+Write a program that reads two lines of input and prints those two lines in the reverse order. (Print the message given in the second line of input before the first line of input)
+
+## Hello World
+
+Write a program that takes a word W as input and prints "Hello" followed by the given word W.
+
+<b>Note</b> There should be a space after Hello
