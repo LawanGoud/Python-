@@ -530,3 +530,7 @@ Write a program that prints a simple square using star (\*).
 ## Simple Square - 2
 
 Write a program that prints a simple square using start(\*).
+
+## Simple Triangle
+
+Write a program that prints a simple triangle using star (\*).
