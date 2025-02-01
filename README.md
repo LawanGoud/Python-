@@ -486,3 +486,7 @@ Write a program that reads a word and prints the word and "###" on two lines.
 ## Print the Input - 3
 
 Write a program that reads the two words and prints the two words on two lines
+
+## Second Line
+
+For this problem, you need to write code to read two lines of input and prints the second line of input
