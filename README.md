@@ -504,3 +504,7 @@ Write a program that takes a word W as input and prints "Hello" followed by the 
 ## Print the Input - 4
 
 For this problem, you need to write code to read a single line of input and print the line after the message "Given Input".
+
+## Join Words
+
+Write a program that reads two words and prints the resultant word by joining the two words.
