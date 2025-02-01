@@ -512,3 +512,7 @@ Write a program that reads two words and prints the resultant word by joining th
 ## Full Name
 
 A job applicant is filling out an application form. He entered his first name and last name. Your task is to print his full name by joining his first name and last name with a space.
+
+## Print Name and Age
+
+Write a program that reads the name and age of a person and prints them in the given format.
