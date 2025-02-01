@@ -522,3 +522,7 @@ Write a program that reads the name and age of a person and prints them in the g
 ## String Repetition
 
 Write a program to print the given input word three times in a single line separated by spaces
+
+## Simple Square
+
+Write a program that prints a simple square using star (\*).
