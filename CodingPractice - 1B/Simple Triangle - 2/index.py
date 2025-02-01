@@ -1,8 +1,4 @@
 # Write a program that prints a simple triangle using star (*).
 
-print('*')
-print('**')
-
-# Output
-# *
-# **
+print("* ")
+print("* " * 2)
