@@ -550,3 +550,7 @@ Write a program that reads a word and prints the first character of the word.
 ## Third Character
 
 Write a program that reads a word and prints the third character of the word.
+
+## First & Last Digits
+
+Given a four-digit number N as input. Write a program to print first and last digit of the number.
