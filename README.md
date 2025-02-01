@@ -500,3 +500,7 @@ Write a program that reads two lines of input and prints those two lines in the 
 Write a program that takes a word W as input and prints "Hello" followed by the given word W.
 
 <b>Note</b> There should be a space after Hello
+
+## Print the Input - 4
+
+For this problem, you need to write code to read a single line of input and print the line after the message "Given Input".
