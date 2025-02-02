@@ -580,3 +580,7 @@ Write a program that reads a word and prints the index of the last charcter of t
 ## Last Character
 
 Write a program which prints the last character of a given word.
+
+## Length Excluding Characters
+
+Write a program that reads a word and prints the length of the word excluding the first and last characters
