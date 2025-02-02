@@ -598,3 +598,7 @@ Write a program that reads a word and prints half the length of the word.
 ## Simple Rectangle
 
 Write a program that prints a simple rectangle using stars(\*).
+
+## Simple Square - 3
+
+Write a program that prints a simple square using stars (\*).
