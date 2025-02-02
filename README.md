@@ -572,3 +572,7 @@ Write a program that reads a word and prints stars(\*) equal to the length of th
 ## Subtract 1 from String Length
 
 Write a program that reads a word and prints `L-1`, where `L` is the length of the word.
+
+## Index of Last Character
+
+Write a program that reads a word and prints the index of the last charcter of the word.
