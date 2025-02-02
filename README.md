@@ -584,3 +584,7 @@ Write a program which prints the last character of a given word.
 ## Length Excluding Characters
 
 Write a program that reads a word and prints the length of the word excluding the first and last characters
+
+## Star Repetition - 2
+
+Write a program that reads a word and prints the first letter of the given word and stars (\*) instead of the other letters.
