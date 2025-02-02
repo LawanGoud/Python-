@@ -561,4 +561,10 @@ Write a program to reverse the digits of a given two-digit number.
 
 # Coding Practice - 1C
 
+## Length of the String
+
 Write a program that reads a word and prints the length of the word.
+
+## Star Repetition
+
+Write a program that reads a word and prints stars(\*) equal to the length of the word.
