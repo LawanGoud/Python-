@@ -588,3 +588,7 @@ Write a program that reads a word and prints the length of the word excluding th
 ## Star Repetition - 2
 
 Write a program that reads a word and prints the first letter of the given word and stars (\*) instead of the other letters.
+
+## Half Length of String
+
+Write a program that reads a word and prints half the length of the word.
