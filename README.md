@@ -592,3 +592,9 @@ Write a program that reads a word and prints the first letter of the given word 
 ## Half Length of String
 
 Write a program that reads a word and prints half the length of the word.
+
+# Assignment - 1A
+
+## Simple Rectangle
+
+Write a program that prints a simple rectangle using stars(\*).
