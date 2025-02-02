@@ -558,3 +558,7 @@ Given a four-digit number N as input. Write a program to print first and last di
 ## Reverse the digits
 
 Write a program to reverse the digits of a given two-digit number.
+
+# Coding Practice - 1C
+
+Write a program that reads a word and prints the length of the word.
