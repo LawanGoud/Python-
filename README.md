@@ -606,3 +606,11 @@ Write a program that prints a simple square using stars (\*).
 ## Simple Triangle - 3
 
 Write a program that prints a simple triangle using stars (\*).
+
+## Stars - 2
+
+Write a program that reads a word and prints the word in the given format.
+
+`****** Python ******`
+
+<b>Note</b> The number of stars before and after the word is equal to the length of the word
