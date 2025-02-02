@@ -602,3 +602,7 @@ Write a program that prints a simple rectangle using stars(\*).
 ## Simple Square - 3
 
 Write a program that prints a simple square using stars (\*).
+
+## Simple Triangle - 3
+
+Write a program that prints a simple triangle using stars (\*).
