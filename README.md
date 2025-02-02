@@ -576,3 +576,7 @@ Write a program that reads a word and prints `L-1`, where `L` is the length of t
 ## Index of Last Character
 
 Write a program that reads a word and prints the index of the last charcter of the word.
+
+## Last Character
+
+Write a program which prints the last character of a given word.
