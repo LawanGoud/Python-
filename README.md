@@ -614,3 +614,9 @@ Write a program that reads a word and prints the word in the given format.
 `****** Python ******`
 
 <b>Note</b> The number of stars before and after the word is equal to the length of the word
+
+## Second Word in First Word
+
+write a program that reads two words `W1` and `W2`. `W2` is at the beginning of `W1`
+
+Prints the index at which `W2` ends in `W1`.
