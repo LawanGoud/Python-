@@ -634,3 +634,7 @@ Write a program that reads a word and prints the first and last characters of th
 ## First Letters
 
 You are given three strings as input. Write a program to print the first character of each string.
+
+## Star Repetiton - 3
+
+Write a program that reads a string and prints the first and last characters of the given string and prints the stars (`*`) instead of the remaining characters.
