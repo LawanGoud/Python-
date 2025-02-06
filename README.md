@@ -638,3 +638,138 @@ You are given three strings as input. Write a program to print the first charact
 ## Star Repetiton - 3
 
 Write a program that reads a string and prints the first and last characters of the given string and prints the stars (`*`) instead of the remaining characters.
+
+# Type Conversion
+
+## String Slicing
+
+Obtaining a part of a string is called string slicing.
+
+<b>Code</b>
+
+```Python
+variable_name[start_index:end_index]
+```
+
+- Start from the `start_index` and stops at `end_index`
+- `end_index` is not included in the slice.
+
+<b>Code</b>
+
+```Python
+message = "Hi Ravi"
+part = message[3:7]
+print(part) # Ravi
+```
+
+## Slicing to End
+
+If end index is not specified, slicing stops at the end of the string.
+
+<b>Code</b>
+
+```Python
+message = "Hi Ravi"
+part = message[3:]
+print(part) # Ravi
+```
+
+## Slicing from Start
+
+If start index is not specified, slicing starts from the index 0.
+
+<b>Code</b>
+
+```Python
+message = "Hi Ravi"
+part = message[:2]
+print(part) # Hi
+```
+
+## Checking Data Type
+
+Check the datatype of the variable or value using `type()`
+
+**Printing Data Type**
+
+```Python
+print(type(10)) # <class 'int'>
+print(type(4.2)) # <class 'float'>
+print(type("Hi")) # <class 'str'>
+```
+
+## Type Conversion
+
+Converting the value of one data type to another data type is called _**Type Conversion or Type Casting**_.
+We can convert
+
+- String to Integer
+- Integer to Float
+- Float to String and so on.
+
+## String to Integer
+
+`int()` converts valid data of any type to integer
+
+```Python
+a = "5"
+a = int(a)
+print(type(a)) # <class 'int'>
+print(a) # 5
+```
+
+## Invalid Integer Conversion
+
+```Python
+a = "Five"
+a = int(a)
+print(type(a))
+```
+
+```Output
+ValueError:
+invalid literal for int() with base 10: 'Five'
+```
+
+```Python
+a = "5.0"
+a = int(a)
+print(type(a))
+```
+
+```Output
+invalid literal for int() with base 10: '5.0'
+```
+
+## Adding Two Numbers
+
+```Python
+a = input() # Input : 2
+a = int(a)
+b = input() # Input : 3
+b = int(b)
+result = a + b
+print(result) # Output : 5
+```
+
+## Integer to String
+
+`str()` converts data of any type to a string.
+
+**Code**
+
+```Python
+a = input() # Input : 2
+a = int(a)
+b = input() # Input: 3
+b = int(b)
+result = a + b
+print("Sum: " + str(result)) # Output : Sum: 5
+```
+
+## Summary
+
+- `int()` -> Converts to integer data type
+- `float()` -> Converts to float data type
+- `str()` -> Converts to string data type
+- `bool()` -> Converts to boolean data type
