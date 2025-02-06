@@ -630,3 +630,7 @@ Write a program that reads two words `A` and `B`, and prints the given words in 
 ## First & Last Characters
 
 Write a program that reads a word and prints the first and last characters of the word on two lines.
+
+## First Letters
+
+You are given three strings as input. Write a program to print the first character of each string.
