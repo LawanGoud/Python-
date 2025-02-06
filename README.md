@@ -620,3 +620,13 @@ Write a program that reads a word and prints the word in the given format.
 write a program that reads two words `W1` and `W2`. `W2` is at the beginning of `W1`
 
 Prints the index at which `W2` ends in `W1`.
+
+## Print in Reverse Order - 2
+
+Write a program that reads two words `A` and `B`, and prints the given words in reverse order separated by `###`
+
+<b>Note :</b> The character used in `###` are three hash symbols.
+
+## First & Last Characters
+
+Write a program that reads a word and prints the first and last characters of the word on two lines.
