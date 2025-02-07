@@ -792,16 +792,38 @@ write a program to calculate the area of the Rectangle.
 
 ## Perimeter of Rectangle
 
+Write a program to calculate the perimeter of a rectangle.
+
+Note: `Perimeter of Rectangle = 2(Length of Rectangle + Breadth of Rectangle)`
+
 ## Division of two numbers - 2
+
+Write a program that reads two numbers A and B and prints the division of two numbers (A/B) as an integer.
 
 ## Subtraction of two numbers
 
+Write a program that reads two numbers A and B and prints the subtraction of two numbers (A - B).
+
 ## Percentage of Boys
+
+Write a program that reads the percentage of girls in a class and prints the percentage of boys in the class.
+
+<b>Note</b> : Total percentage of Boys and Girls in a class is 100.
 
 ## Sum of two numbers - 2
 
+Write a program that reads two numbers and prints the sum of two numbers in the given format.
+
 ## Kilometers to Meters
+
+Write a program to take the number of kilometers as input and convert into meters and print the number of meters.
+
+<b>Note</b> `1Kilometer = 1000meters`
 
 ## Percentage
 
+Write a program that reads a percentage `P` and prints the percentage `P` of the number 200.
+
 ## Remainder
+
+Write a program that reads a dividend and a divisor and prints the remainder.
