@@ -773,3 +773,35 @@ print("Sum: " + str(result)) # Output : Sum: 5
 - `float()` -> Converts to float data type
 - `str()` -> Converts to string data type
 - `bool()` -> Converts to boolean data type
+
+# Coding Practice - 1D
+
+## Sum of two numbers
+
+Write a program to print the sum of two integers inputs A and B.
+
+## Division of two numbers
+
+Write a program that reads two numbers A and B and prints the division of two numbers (A / B).
+
+## Area of Rectangle
+
+write a program to calculate the area of the Rectangle.
+
+**Note** `Area of Rectangle = Length of Rectangle x Breadth of Rectangle`
+
+## Perimeter of Rectangle
+
+## Division of two numbers - 2
+
+## Subtraction of two numbers
+
+## Percentage of Boys
+
+## Sum of two numbers - 2
+
+## Kilometers to Meters
+
+## Percentage
+
+## Remainder
