@@ -827,3 +827,9 @@ Write a program that reads a percentage `P` and prints the percentage `P` of the
 ## Remainder
 
 Write a program that reads a dividend and a divisor and prints the remainder.
+
+# Coding Practice 1E
+
+## Sum of the digits
+
+Write a program that prints the sum of the digits of a given three-digit number.
