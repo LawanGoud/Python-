@@ -845,3 +845,7 @@ Given a word and a number N, write a program to print the given word, N number o
 ## First Three Characters
 
 Write a program to read a single line of input and print the first three characters in it.
+
+## Part of a String
+
+Write a program that reads a word and an index and prints a part of the word from the given index to the end of the word.
