@@ -841,3 +841,7 @@ Given a word W and a integer N, write a program to print the character present a
 ## String Repetition - 2
 
 Given a word and a number N, write a program to print the given word, N number of times in a single line.
+
+## First Three Characters
+
+Write a program to read a single line of input and print the first three characters in it.
