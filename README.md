@@ -837,3 +837,7 @@ Write a program that prints the sum of the digits of a given three-digit number.
 ## Indexing
 
 Given a word W and a integer N, write a program to print the character present at the index N in the word W.
+
+## String Repetition - 2
+
+Given a word and a number N, write a program to print the given word, N number of times in a single line.
