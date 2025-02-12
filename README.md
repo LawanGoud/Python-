@@ -883,3 +883,7 @@ Write a program that reads a string and prints the first part of the string that
 ## Half String
 
 Write a program that reads a string and prints the first half of the string.
+
+## String Repetition 3
+
+Given a word and a number (N), write a program to print the last three characters of the word N times in a single line.
