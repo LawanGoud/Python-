@@ -877,3 +877,9 @@ Write a program that reads a string and prints the first part of the string that
 - The second part contains only one character.
   Example: 10y, 1a
 ```
+
+# Coding Practice 1F
+
+## Half String
+
+Write a program that reads a string and prints the first half of the string.
