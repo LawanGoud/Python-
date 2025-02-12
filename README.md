@@ -891,3 +891,7 @@ Given a word and a number (N), write a program to print the last three character
 ## String Repetition 4
 
 You are given a string. Repeat the same string N times separated by space.
+
+## Star Repetition - 4
+
+Write a program that reads a word and prints the first two and last two letters of the word and prints the stars (\*) instead of the remaining letters.
