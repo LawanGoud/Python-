@@ -899,3 +899,7 @@ Write a program that reads a word and prints the first two and last two letters 
 ## Skip the Fourth Character
 
 Write a program that reads a word and prints the word excluding the fourth letter of the word.
+
+## Skipping Letters
+
+You're given a word and an index position of a character. You need to write a program that prints the given word without the character at the given index.
