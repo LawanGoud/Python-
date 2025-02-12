@@ -907,3 +907,7 @@ You're given a word and an index position of a character. You need to write a pr
 ## Simple Square - 4
 
 Write a program that prints a simple square using the hashes (#).
+
+## Simple Triangle - 4
+
+Write a program that prints a simple triangle using the plus (+).
