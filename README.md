@@ -861,3 +861,7 @@ Write a program that reads a word and a number N and prints the first N characte
 ## Last N Characters
 
 Write a program that reads a word and a number N and prints the last N characters of the word
+
+## Second Part of a String
+
+Write a program that reads a string and prints the second part of the string that has digits.
