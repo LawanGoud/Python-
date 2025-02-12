@@ -853,3 +853,7 @@ Write a program that reads a word and an index and prints a part of the word fro
 ## Part of a String - 2
 
 Write a program that reads a word and two indices (X, Y) and prints a part of the word from the index X to the index Y.
+
+## First N Characters
+
+Write a program that reads a word and a number N and prints the first N characters of the word.
