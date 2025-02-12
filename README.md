@@ -865,3 +865,15 @@ Write a program that reads a word and a number N and prints the last N character
 ## Second Part of a String
 
 Write a program that reads a string and prints the second part of the string that has digits.
+
+## First Part of a String
+
+Write a program that reads a string and prints the first part of the string that has numbers.
+
+```
+`Note`: The given string contains 2 parts
+
+- The first part contains only digits
+- The second part contains only one character.
+  Example: 10y, 1a
+```
