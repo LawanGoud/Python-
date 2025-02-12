@@ -887,3 +887,7 @@ Write a program that reads a string and prints the first half of the string.
 ## String Repetition 3
 
 Given a word and a number (N), write a program to print the last three characters of the word N times in a single line.
+
+## String Repetition 4
+
+You are given a string. Repeat the same string N times separated by space.
