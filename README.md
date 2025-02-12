@@ -895,3 +895,7 @@ You are given a string. Repeat the same string N times separated by space.
 ## Star Repetition - 4
 
 Write a program that reads a word and prints the first two and last two letters of the word and prints the stars (\*) instead of the remaining letters.
+
+## Skip the Fourth Character
+
+Write a program that reads a word and prints the word excluding the fourth letter of the word.
