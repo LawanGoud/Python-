@@ -857,3 +857,7 @@ Write a program that reads a word and two indices (X, Y) and prints a part of th
 ## First N Characters
 
 Write a program that reads a word and a number N and prints the first N characters of the word.
+
+## Last N Characters
+
+Write a program that reads a word and a number N and prints the last N characters of the word
