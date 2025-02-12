@@ -849,3 +849,7 @@ Write a program to read a single line of input and print the first three charact
 ## Part of a String
 
 Write a program that reads a word and an index and prints a part of the word from the given index to the end of the word.
+
+## Part of a String - 2
+
+Write a program that reads a word and two indices (X, Y) and prints a part of the word from the index X to the index Y.
