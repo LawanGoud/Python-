@@ -1060,3 +1060,7 @@ Write a program that reads two numbers and checks if the first number is greater
 <b>Note</b>
 
 Negative numbers are numbers that are less than zero.
+
+## Equal to
+
+Write a program that reads two words and checks if the given two words are the same.
