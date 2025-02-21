@@ -970,3 +970,79 @@ Print the word W by replacing the letter at the index I with the given letter C.
 ## Half String - 2
 
 Write a program that reads a string and prints the second half part of the string.
+
+# Relational Operators
+
+Relational Operators are used to compare values.
+
+Gives `True` and `False` as the result of a comparison.
+
+These are different relational operators
+
+| Operator | Name                        |
+| -------- | --------------------------- |
+| >        | Is greater than             |
+| <        | Is less than                |
+| ==       | Is equal to                 |
+| <=       | Is less than or equal to    |
+| >=       | Is greater than or equal to |
+| !=       | Is not equal to             |
+
+```Python
+print(5 < 10) # True
+print(2 > 1) # True
+```
+
+## Possible Mistakes
+
+### Mistake - 1
+
+```Python
+print(3 = 3) # SyntaxError: expression cannot contain assignment, perhaps you meant "=="?
+```
+
+### Mistake - 2
+
+```Python
+print(2 < = 3) # SyntaxError: invalid syntax
+```
+
+Space between relational operators `==`, `>=`, `<=` , `!=` is not valid in Python.
+
+## Comparing Numbers
+
+```Python
+print(2 <= 3) # True
+print(2.53 >= 2.55) # False
+```
+
+## Comparing Integers and Floats
+
+```Python
+print(12 == 12.0) # True
+print(12 == 12.1) # False
+```
+
+## Compare Strings
+
+```Python
+print("ABC" == "ABC") # True
+print("CBA" != "ABC") # True
+```
+
+## Case Sensitive
+
+```Python
+print("ABC" == "abc") # False
+```
+
+- Python is case sensitive.
+- It means X (Capital letter) and x (small letter) are not the same in Python.
+
+## Strings and Equality Operator
+
+```Python
+print(True == "True") # False
+print(123 == "123") # False
+print(1.1 == "1.1") # False
+```
