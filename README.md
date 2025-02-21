@@ -960,3 +960,9 @@ Print `W1` with the first part as start (`*`).
 ## Part of a String - 3
 
 Write a program that reads a string A and prints the string A by excluding the first two and last two characters of the string.
+
+## Replace a Letter
+
+Write a program that reads a word W, an index I, and a letter C.
+
+Print the word W by replacing the letter at the index I with the given letter C.
