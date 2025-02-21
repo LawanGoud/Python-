@@ -966,3 +966,7 @@ Write a program that reads a string A and prints the string A by excluding the f
 Write a program that reads a word W, an index I, and a letter C.
 
 Print the word W by replacing the letter at the index I with the given letter C.
+
+## Half String - 2
+
+Write a program that reads a string and prints the second half part of the string.

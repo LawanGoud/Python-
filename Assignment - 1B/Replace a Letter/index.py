@@ -12,8 +12,7 @@ last_part = word[index + 1:]
 print(first_part + letter + last_part) # Output: Prize
 
 
-
-
+# Another Approach
 
 # # Convert the word to a list of characters
 # word_list = list(word)
