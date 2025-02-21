@@ -915,3 +915,9 @@ Write a program that prints a simple triangle using the plus (+).
 ## Stars - 3
 
 Write a program that reads a number N and prints three lines with each line containing N stars (\*)
+
+# Assignment - 1B
+
+## Shape
+
+Write a program that reads a number `N` and prints three lines with each line containing `N` pluses (`+`)
