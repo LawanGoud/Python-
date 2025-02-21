@@ -1068,3 +1068,7 @@ Write a program that reads two words and checks if the given two words are the s
 ## Sunday
 
 Write a program that reads a day number and checks if the given day is a Sunday.
+
+## Not Equal to
+
+Write a program that reads two numbers and checks if the given two numbers are not the same.
