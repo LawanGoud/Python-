@@ -921,3 +921,11 @@ Write a program that reads a number N and prints three lines with each line cont
 ## Shape
 
 Write a program that reads a number `N` and prints three lines with each line containing `N` pluses (`+`)
+
+## Basic Arithmetic
+
+Write a program to take two integer inputs (say A and B) and print the result of the following operations.
+
+1. Addition
+2. Subtraction
+3. Multiplication
