@@ -1072,3 +1072,7 @@ Write a program that reads a day number and checks if the given day is a Sunday.
 ## Not Equal to
 
 Write a program that reads two numbers and checks if the given two numbers are not the same.
+
+## Greater than or Equal to
+
+Write a program that reads two numbers A and B and checks if A is greater than or equal to B. Print the result as shown in the sample output.
