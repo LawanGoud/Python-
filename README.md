@@ -1052,3 +1052,7 @@ print(1.1 == "1.1") # False
 ## Greater than 70
 
 Write a program that reads a number and checks if the given number is greater than 70.
+
+## Greatest among two numbers
+
+Write a program that reads two numbers and checks if the first number is greater than the second number.
