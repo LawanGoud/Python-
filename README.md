@@ -929,3 +929,18 @@ Write a program to take two integer inputs (say A and B) and print the result of
 1. Addition
 2. Subtraction
 3. Multiplication
+
+## Percentage - 2
+
+Write a program that reads a number N. N is divided into two parts `X` and `Y`.
+
+- `X` is 30 percent of `N`.
+- `Y` is the remaining percentage of `N`. Print `Y`.
+
+<b>Note</b>
+
+Total Percentage of X and Y is 100.
+
+The Percentage(P) of Number(N) can be calculated as:
+
+value = (percentage/100) \* number
