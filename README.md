@@ -948,3 +948,11 @@ value = (percentage/100) \* number
 ## Area and Perimeter of Square
 
 You are given a side of square as input. Write a program to find the perimeter and area of the square.
+
+## Star Repetition - 5
+
+Write a program that reads two words `W1` and `W2`.
+
+`W1` contains two parts. The first part contains `W2` and the second part contains the remaining letters in `W1`.
+
+Print `W1` with the first part as start (`*`).
