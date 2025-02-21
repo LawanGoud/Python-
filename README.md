@@ -944,3 +944,7 @@ Total Percentage of X and Y is 100.
 The Percentage(P) of Number(N) can be calculated as:
 
 value = (percentage/100) \* number
+
+## Area and Perimeter of Square
+
+You are given a side of square as input. Write a program to find the perimeter and area of the square.
