@@ -1064,3 +1064,7 @@ Negative numbers are numbers that are less than zero.
 ## Equal to
 
 Write a program that reads two words and checks if the given two words are the same.
+
+## Sunday
+
+Write a program that reads a day number and checks if the given day is a Sunday.
