@@ -1046,3 +1046,9 @@ print(True == "True") # False
 print(123 == "123") # False
 print(1.1 == "1.1") # False
 ```
+
+# Coding Practice - 2A
+
+## Greater than 70
+
+Write a program that reads a number and checks if the given number is greater than 70.
