@@ -1056,3 +1056,7 @@ Write a program that reads a number and checks if the given number is greater th
 ## Greatest among two numbers
 
 Write a program that reads two numbers and checks if the first number is greater than the second number.
+
+<b>Note</b>
+
+Negative numbers are numbers that are less than zero.
