@@ -1090,3 +1090,7 @@ Write a program that reads two numbers A and B, and checks if B is greater than 
 ## Compare First & Last Letters
 
 Write a program that reads a word and checks if the first lettter and last letter of the word are not the same.
+
+## Compare Sum of the Digits
+
+Write a program that reads a two digit number N. The N consists of only two digits. Check if the sum of the digits of N is greater than 7.
