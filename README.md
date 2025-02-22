@@ -1076,3 +1076,7 @@ Write a program that reads two numbers and checks if the given two numbers are n
 ## Greater than or Equal to
 
 Write a program that reads two numbers A and B and checks if A is greater than or equal to B. Print the result as shown in the sample output.
+
+## Greater than - 2
+
+Write a program that reads two numbers A and B and checks if the A is greater than B. Print the result as shown in the sample output.
