@@ -1086,3 +1086,7 @@ Write a program that reads two numbers A and B and checks if the A is greater th
 ## Check One Greater
 
 Write a program that reads two numbers A and B, and checks if B is greater than A by one.
+
+## Compare First & Last Letters
+
+Write a program that reads a word and checks if the first lettter and last letter of the word are not the same.
