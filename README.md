@@ -1102,3 +1102,7 @@ Write a program to check if the given string is a valid password or not. A strin
 ## Check Last Part of a String
 
 Write a program that reads two words A and B and checks if the second word B is the last part of the first word A.
+
+## Check Part of a string
+
+Write a program that reads a word A, B, and an index I. Check if B starts at index I in A.
