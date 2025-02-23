@@ -1094,3 +1094,7 @@ Write a program that reads a word and checks if the first lettter and last lette
 ## Compare Sum of the Digits
 
 Write a program that reads a two digit number N. The N consists of only two digits. Check if the sum of the digits of N is greater than 7.
+
+## Validate Password
+
+Write a program to check if the given string is a valid password or not. A string is considered as a valid password if the number of characters present is greater than 7.
