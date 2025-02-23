@@ -1110,3 +1110,14 @@ Write a program that reads a word A, B, and an index I. Check if B starts at ind
 ## Compare First Three Characters
 
 Write a program to check if the first three characters in the two given strings are the same.
+
+# Assignment - 2A
+
+## Compare Digits
+
+Write a program that reads a two digit number N and checks,
+
+- if the number N is greater than 25.
+- if the first digit of N is greater than the second digit of N.
+
+Print the result as shown in sample output
