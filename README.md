@@ -1098,3 +1098,7 @@ Write a program that reads a two digit number N. The N consists of only two digi
 ## Validate Password
 
 Write a program to check if the given string is a valid password or not. A string is considered as a valid password if the number of characters present is greater than 7.
+
+## Check Last Part of a String
+
+Write a program that reads two words A and B and checks if the second word B is the last part of the first word A.
