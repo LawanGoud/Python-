@@ -1106,3 +1106,7 @@ Write a program that reads two words A and B and checks if the second word B is 
 ## Check Part of a string
 
 Write a program that reads a word A, B, and an index I. Check if B starts at index I in A.
+
+## Compare First Three Characters
+
+Write a program to check if the first three characters in the two given strings are the same.
