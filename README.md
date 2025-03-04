@@ -1121,3 +1121,7 @@ Write a program that reads a two digit number N and checks,
 - if the first digit of N is greater than the second digit of N.
 
 Print the result as shown in sample output
+
+## Compare First Digit and Last Digit
+
+Write a program that reads two three-digit numbers A and B and checks if the first digit of A is less than the last digit of B.
